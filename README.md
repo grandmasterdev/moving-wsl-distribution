@@ -42,6 +42,6 @@ If you want to automate the process of `Step 1`, there's a script made that will
 
 ```powershell
 
-.\script\moving-dist.ps1
+.\scripts\moving-dist.ps1
 
 ```
